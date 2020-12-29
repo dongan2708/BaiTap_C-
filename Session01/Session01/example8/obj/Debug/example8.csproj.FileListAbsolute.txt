@@ -1,0 +1,6 @@
+D:\Session01\Session01\example8\bin\Debug\example8.exe.config
+D:\Session01\Session01\example8\bin\Debug\example8.exe
+D:\Session01\Session01\example8\bin\Debug\example8.pdb
+D:\Session01\Session01\example8\obj\Debug\example8.csproj.CoreCompileInputs.cache
+D:\Session01\Session01\example8\obj\Debug\example8.exe
+D:\Session01\Session01\example8\obj\Debug\example8.pdb

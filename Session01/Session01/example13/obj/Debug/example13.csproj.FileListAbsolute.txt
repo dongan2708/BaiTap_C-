@@ -1,0 +1,7 @@
+D:\Session01\Session01\example13\bin\Debug\example13.exe.config
+D:\Session01\Session01\example13\bin\Debug\example13.exe
+D:\Session01\Session01\example13\bin\Debug\example13.pdb
+D:\Session01\Session01\example13\obj\Debug\example13.csprojAssemblyReference.cache
+D:\Session01\Session01\example13\obj\Debug\example13.csproj.CoreCompileInputs.cache
+D:\Session01\Session01\example13\obj\Debug\example13.exe
+D:\Session01\Session01\example13\obj\Debug\example13.pdb

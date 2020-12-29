@@ -1,0 +1,2 @@
+D:\Session01\Session01\example6\obj\Debug\example6.csprojAssemblyReference.cache
+D:\Session01\Session01\example6\obj\Debug\example6.csproj.CoreCompileInputs.cache

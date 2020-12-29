@@ -1,0 +1,7 @@
+D:\Session01\Session01\example10\bin\Debug\example10.exe.config
+D:\Session01\Session01\example10\bin\Debug\example10.exe
+D:\Session01\Session01\example10\bin\Debug\example10.pdb
+D:\Session01\Session01\example10\obj\Debug\example10.csprojAssemblyReference.cache
+D:\Session01\Session01\example10\obj\Debug\example10.csproj.CoreCompileInputs.cache
+D:\Session01\Session01\example10\obj\Debug\example10.exe
+D:\Session01\Session01\example10\obj\Debug\example10.pdb
