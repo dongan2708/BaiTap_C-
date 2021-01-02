@@ -1,0 +1,7 @@
+D:\Lab02\Lab02_ss4,5\ss4.22\bin\Debug\ss4.22.exe.config
+D:\Lab02\Lab02_ss4,5\ss4.22\bin\Debug\ss4.22.exe
+D:\Lab02\Lab02_ss4,5\ss4.22\bin\Debug\ss4.22.pdb
+D:\Lab02\Lab02_ss4,5\ss4.22\obj\Debug\ss4.22.csprojAssemblyReference.cache
+D:\Lab02\Lab02_ss4,5\ss4.22\obj\Debug\ss4.22.csproj.CoreCompileInputs.cache
+D:\Lab02\Lab02_ss4,5\ss4.22\obj\Debug\ss4.22.exe
+D:\Lab02\Lab02_ss4,5\ss4.22\obj\Debug\ss4.22.pdb
