@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lab04\Supplier\bin\Debug\Supplier.exe.config
+C:\Users\admin\source\repos\Lab04\Supplier\bin\Debug\Supplier.exe
+C:\Users\admin\source\repos\Lab04\Supplier\bin\Debug\Supplier.pdb
+C:\Users\admin\source\repos\Lab04\Supplier\obj\Debug\Supplier.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Lab04\Supplier\obj\Debug\Supplier.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lab04\Supplier\obj\Debug\Supplier.exe
+C:\Users\admin\source\repos\Lab04\Supplier\obj\Debug\Supplier.pdb

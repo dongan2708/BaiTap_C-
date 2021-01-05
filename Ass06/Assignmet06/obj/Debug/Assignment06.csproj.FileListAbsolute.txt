@@ -1,0 +1,7 @@
+D:\Assignments\Medinice\Assignments\bin\Debug\Assignments.exe.config
+D:\Assignments\Medinice\Assignments\bin\Debug\Assignments.exe
+D:\Assignments\Medinice\Assignments\bin\Debug\Assignments.pdb
+D:\Assignments\Medinice\Assignments\obj\Debug\Assignment06.csprojAssemblyReference.cache
+D:\Assignments\Medinice\Assignments\obj\Debug\Assignment06.csproj.CoreCompileInputs.cache
+D:\Assignments\Medinice\Assignments\obj\Debug\Assignments.exe
+D:\Assignments\Medinice\Assignments\obj\Debug\Assignments.pdb

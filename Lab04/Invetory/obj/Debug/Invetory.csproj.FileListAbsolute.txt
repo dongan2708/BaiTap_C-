@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lab04\Invetory\bin\Debug\Invetory.exe.config
+C:\Users\admin\source\repos\Lab04\Invetory\bin\Debug\Invetory.exe
+C:\Users\admin\source\repos\Lab04\Invetory\bin\Debug\Invetory.pdb
+C:\Users\admin\source\repos\Lab04\Invetory\obj\Debug\Invetory.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Lab04\Invetory\obj\Debug\Invetory.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lab04\Invetory\obj\Debug\Invetory.exe
+C:\Users\admin\source\repos\Lab04\Invetory\obj\Debug\Invetory.pdb
