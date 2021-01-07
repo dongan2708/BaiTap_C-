@@ -1,0 +1,7 @@
+D:\Session07\Session07\Company\bin\Debug\Company.exe.config
+D:\Session07\Session07\Company\bin\Debug\Company.exe
+D:\Session07\Session07\Company\bin\Debug\Company.pdb
+D:\Session07\Session07\Company\obj\Debug\Company.csprojAssemblyReference.cache
+D:\Session07\Session07\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\Session07\Session07\Company\obj\Debug\Company.exe
+D:\Session07\Session07\Company\obj\Debug\Company.pdb

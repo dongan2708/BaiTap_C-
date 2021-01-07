@@ -1,0 +1,7 @@
+D:\Session07\Session07\Session07\bin\Debug\Session07.exe.config
+D:\Session07\Session07\Session07\bin\Debug\Session07.exe
+D:\Session07\Session07\Session07\bin\Debug\Session07.pdb
+D:\Session07\Session07\Session07\obj\Debug\Code Snippet1.csprojAssemblyReference.cache
+D:\Session07\Session07\Session07\obj\Debug\Code Snippet1.csproj.CoreCompileInputs.cache
+D:\Session07\Session07\Session07\obj\Debug\Session07.exe
+D:\Session07\Session07\Session07\obj\Debug\Session07.pdb

@@ -1,0 +1,6 @@
+D:\Session07\Session07\Code Snippet5\bin\Debug\Code Snippet5.exe.config
+D:\Session07\Session07\Code Snippet5\bin\Debug\Code Snippet5.exe
+D:\Session07\Session07\Code Snippet5\bin\Debug\Code Snippet5.pdb
+D:\Session07\Session07\Code Snippet5\obj\Debug\Code Snippet5.csproj.CoreCompileInputs.cache
+D:\Session07\Session07\Code Snippet5\obj\Debug\Code Snippet5.exe
+D:\Session07\Session07\Code Snippet5\obj\Debug\Code Snippet5.pdb
