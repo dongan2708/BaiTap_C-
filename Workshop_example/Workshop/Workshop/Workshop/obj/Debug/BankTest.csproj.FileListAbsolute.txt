@@ -1,0 +1,2 @@
+D:\Workshop\Workshop\Workshop\obj\Debug\BankTest.csprojAssemblyReference.cache
+D:\Workshop\Workshop\Workshop\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
