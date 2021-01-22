@@ -1,0 +1,7 @@
+D:\Practice\EX1\EX2\obj\Debug\EX2.csprojAssemblyReference.cache
+D:\Practice\EX1\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+D:\Practice\EX1\EX2\bin\Debug\EX2.exe.config
+D:\Practice\EX1\EX2\bin\Debug\EX2.exe
+D:\Practice\EX1\EX2\bin\Debug\EX2.pdb
+D:\Practice\EX1\EX2\obj\Debug\EX2.exe
+D:\Practice\EX1\EX2\obj\Debug\EX2.pdb
